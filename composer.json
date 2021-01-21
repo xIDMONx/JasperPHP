@@ -1,6 +1,6 @@
 {
-    "name": "cossou/jasperphp",
-    "description": "Create Reports in PHP with JasperReports",
+    "name": "xidmonx/jasperphp",
+    "description": "Create Reports in PHP with JasperReports (forked from cossou/JasperPHP)",
     "license": "MIT",
     "keywords": [
         "reports",
